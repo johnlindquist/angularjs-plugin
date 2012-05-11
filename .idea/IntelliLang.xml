@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LanguageInjectionConfiguration">
+    <injection language="HTML" injector-id="xml">
+      <display-name>change-notes</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("change-notes"))]]></place>
+    </injection>
+  </component>
+</project>
+
